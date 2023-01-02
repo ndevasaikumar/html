@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer Geeks</title>
+    <link rel="stylesheet" href="C:\Users\n.devasaikumar\Desktop\project\project.css">
+    <script src="C:\Users\n.devasaikumar\Desktop\project\project.js"></script>
+</head>
+<body>
+        <div class= "Navbar solid">
+            <div class="solid">
+                Logo
+            </div>
+            <div class ="solid">
+                Computer geeks
+            </div>
+            <div class ="solid" style="margin-left: 20%;">
+              <a href="https://www.programiz.com/python-programming/online-compiler/?ref=190b2667" target="_blank">Practice</a> 
+            </div>
+            <div class ="solid">
+                Code library
+            </div>
+            <div class ="solid">
+                <a href="contact.html" target="_blank">Contact</a>
+            </div>
+            <div class ="solid">
+            <a href="login.html" target="_blank">Login</a> 
+            </div>
+        </div>
+        <div class="middle">
+            <div class="textarea">
+                 
+                <h>problem1</h><br>
+                <left>
+                    list=[8,3,2,-1,7]
+                </left>
+                <p><a href="https://www.programiz.com/python-programming/online-compiler/?ref=190b2667" target="_blank">Write code here</a></p>
+                <h>solution1</h>
+                <p><a href="https://www.w3resource.com/python-exercises/python-functions-exercise-3.php" target="_blank">solution of the above given problem1</a></p>
+                <right><button>See more</button></right>
+            </div>
+            <div class = sider>
+                <div class = "left1">
+                    <div >Top Rated Programmers</div>
+                    <ol>
+                        <li>print prime numbers</li>
+                        <li>print composite numbers</li>
+                        <li>verify amrstrong number</li>
+                        <li>print fibonacci of number</li>
+                    </ol>
+                        <button style="margin-left: 10px">see more</button>
+                </div>
+            </div>
+        </div>
+        <div class="middle">
+            <div class="textarea">
+               <h>
+                problem2
+               </h>
+               <p>Add and subract of the given two martrices
+                <pre>
+                A = [[1,2],[3,4]]
+                B = [[4,5],[6,7]]
+                </pre>
+               </p>
+               <p1>
+                <a href="https://www.programiz.com/python-programming/online-compiler/?ref=190b2667" target="_blank">write code here</a>
+               </p1><br><br>
+               <h>solution2</h>
+               <p>
+                <a href="https://www.geeksforgeeks.org/adding-and-subtracting-matrices-in-python/" target="_blank">solution of the above given problem2</a>
+               </p>
+               <right><button>see more</button></right>
+            </div>
+            <div class = sider>
+                    <div class = "left1">
+                        <div>Top Used Languages</div>
+                        <ol>
+                            <li>Python</li>
+                            <li>JavaScript</li>
+                            <li>Java</li>
+                            <li>HTML</li>
+                            <li>CSS</li>
+                            <li>SQl</li>
+                            <li>C#</li>
+                        </ol>
+                            <button>see more</button>
+                        
+                    </div>
+            
+            </div>
+            
+        </div>
+        <div class="bottom">
+            <div class="bottom1">
+                <div class ="solid">
+                    Previous
+                </div>
+                <div class ="solid" style="margin-left: 20%;">
+                    Next
+                </div>
+            </div>
+            <div></div>
+
+        </div>
+</body>
+
+</html>

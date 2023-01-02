@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cmputergeeks</title>
+<link rel="stylesheet" href="C:\Users\n.devasaikumar\Desktop\project\contact.css">
+
+</head>
+<body>
+    <div class="container">
+        <form action="action_page.php" onsubmit="myFunction()">
+      
+          <label for="fname">First Name</label>
+          <input type="text" id="fname"  placeholder="Your first name..">
+      
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" placeholder="Your last name..">
+      
+          <label for="country">Country</label>
+          <select id="country" name="country">
+            <option value="australia">Australia</option>
+            <option value="canada">Canada</option>
+            <option value="usa">USA</option>
+            <option value="india" selected>India</option>
+            <option value="pakisthan">pakisthan</option>
+            <option value="afghanisthan">afghanisthan</option>
+          </select>
+      
+          <label for="subject">Query</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+          <pre>
+           <b> Contact no: +91-9********0</b> <b>email-id:computergeeks@gmail.com</b> 
+          
+           
+            
+            <input type="submit" value="Submit">
+            <script>
+              function myFunction() {
+                alert("your query is sucesfully submitted");
+                alert("thank you");
+              }
+              </script>
+              
+              
+          </div>
+        </form>
+      </div>
+<div class="dev">
+  <a href="C:\Users\n.devasaikumar\Desktop\project\project.html"><input type="submit" value="back"></a>
+
+</div>
+</body>
+</html>
